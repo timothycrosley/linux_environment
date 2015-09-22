@@ -17,3 +17,5 @@ git clone https://github.com/timothycrosley/pies ~/projects/pies
 git clone https://github.com/timothycrosley/jiphy ~/projects/jiphy
 git clone https://github.com/timothycrosley/concentration ~/projects/concentration
 mkdir ~/documents
+
+ln -s ~/environment/isort.cfg ~/.isort.cfg
