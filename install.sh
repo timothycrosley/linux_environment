@@ -7,6 +7,7 @@ echo "source ~/environment/*.env" >> ~/.bashrc
 
 git config --global user.email "timothy.crosley@gmail.com"
 git config --global user.name "Timothy Crosley"
+git config --global push.default matching
 
 mkdir ~/projects
 git clone https://github.com/timothycrosley/hug ~/projects/hug
