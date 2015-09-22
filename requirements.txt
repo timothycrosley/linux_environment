@@ -1,0 +1,7 @@
+isort
+wheel
+pypandoc
+jiphy
+hug
+uwsgi
+concentration

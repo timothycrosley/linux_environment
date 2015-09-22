@@ -2,12 +2,14 @@
 #
 # Installs my customized Linux environment files and scripts into the current users environment
 git clone https://github.com/timothycrosley/linux_environment.git ~/environment
+git clone git://github.com/kennethreitz/autoenv.git ~/.autoenv
 
-echo "source ~/environment/*.env" >> ~/.bashrc
+echo "source ~/environment/source.sh" >> ~/.bashrc
 
 git config --global user.email "timothy.crosley@gmail.com"
 git config --global user.name "Timothy Crosley"
-git config --global push.default matching
+git config --global credential.helper "cache --timeout=10000"
+git config --global push.default current
 
 mkdir ~/projects
 git clone https://github.com/timothycrosley/hug ~/projects/hug
