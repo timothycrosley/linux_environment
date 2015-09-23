@@ -18,5 +18,7 @@ sudo zypper install google-chrome
 sudo zypper install vlc
 sudo zypper install redis
 sudo zypper install devel_python3
+sudo zypper in gcc-c++
+sudo zypper install -t pattern devel_basis
 
 sudo pip3 install -r ~/environment/requirements.txt -U
