@@ -12,12 +12,14 @@ git config --global credential.helper "cache --timeout=10000"
 git config --global push.default current
 
 mkdir ~/projects
+mkdir ~/projects/clippify
 git clone https://github.com/timothycrosley/hug ~/projects/hug
 git clone https://github.com/timothycrosley/isort ~/projects/isort
 git clone https://github.com/timothycrosley/frosted ~/projects/frosted
 git clone https://github.com/timothycrosley/pies ~/projects/pies
 git clone https://github.com/timothycrosley/jiphy ~/projects/jiphy
 git clone https://github.com/timothycrosley/concentration ~/projects/concentration
+git clone https://github.com/clippify/server.git ~/projects/clippify/server
 mkdir ~/documents
 
 ln -s ~/environment/isort.cfg ~/.isort.cfg
