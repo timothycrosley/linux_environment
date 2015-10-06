@@ -12,6 +12,9 @@ git config --global credential.helper "cache --timeout=10000"
 git config --global push.default current
 git config --global core.askpass ""
 
+mkdir ~/templates
+git clone https://github.com/timothycrosley/python3-project-template ~/templates/python3
+
 mkdir ~/projects
 mkdir ~/projects/clippify
 git clone https://github.com/timothycrosley/hug ~/projects/hug
