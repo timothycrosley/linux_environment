@@ -5,3 +5,4 @@ jiphy
 hug
 uwsgi
 concentration
+cookiecutter
