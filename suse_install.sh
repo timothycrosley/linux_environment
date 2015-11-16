@@ -23,5 +23,6 @@ sudo zypper install -t pattern devel_basis
 
 sudo pip3 install -r ~/environment/requirements.txt -U
 
+sudo chmod ogu+rwx /etc/vconsole.conf
 sudo echo "KEYMAP=en-latin9" > /etc/vconsole.conf
 
