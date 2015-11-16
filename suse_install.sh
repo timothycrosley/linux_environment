@@ -9,7 +9,7 @@ sudo zypper ar -f http://download.opensuse.org/repositories/server:/database/ope
 sudo zypper ar -f http://dl.google.com/linux/chrome/rpm/stable/x86_64 Google-Chrome
 
 sudo zypper install the_silver_searcher
-sudo zypper install python3-IPython
+sudo zypper install python3-jupyter python3-jupyter_ipython
 sudo zypper install yakuake
 sudo zypper install kate
 sudo zypper install pandoc
@@ -17,7 +17,7 @@ sudo zypper install git-flow
 sudo zypper install google-chrome
 sudo zypper install vlc
 sudo zypper install redis
-sudo zypper install devel_python3
+sudo zypper install -t pattern devel_python3
 sudo zypper in gcc-c++
 sudo zypper install -t pattern devel_basis
 
