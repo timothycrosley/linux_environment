@@ -11,6 +11,7 @@ sudo zypper install redis
 sudo zypper install -t pattern devel_python3
 sudo zypper install gcc-c++
 sudo zypper install -t pattern devel_basis
+sudo zypper install -t pattern devel_C_C++ devel_kernel
 
 #
 # Install keys
