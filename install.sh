@@ -8,7 +8,7 @@ echo "source ~/environment/source.sh" >> ~/.bashrc
 
 git config --global user.email "timothy.crosley@gmail.com"
 git config --global user.name "Timothy Crosley"
-git config --global credential.helper "cache --timeout=10000"
+git config --global credential.helper "cache --timeout=31536000"
 git config --global push.default current
 git config --global core.askpass ""
 
