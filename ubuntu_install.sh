@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo apt-get install curl
+sudo apt-get install kwrite
 sudo apt-get install git
 sudo apt-get install yakuake
 sudo apt-get install vim
