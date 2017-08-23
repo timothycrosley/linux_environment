@@ -7,6 +7,7 @@ sudo apt-get install vim
 sudo apt-get install kate
 sudo apt-get install python3.6
 sudo apt-get install python3.6-dev
+sudo apt-get install python3.6-venv
 sudo apt-get install silversearcher-ag
 sudo apt-get install pandoc
 sudo apt-get install redis
