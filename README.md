@@ -55,3 +55,22 @@ Spellcheck:
 
 Open/Save:
 - Remove Trailing Spaces: In Entire Document
+
+# Firefox
+
+Extensions:
+- Bitwarden
+
+Themes:
+- Dark
+
+# KDE
+
+Theme:
+- Breeze Dark
+
+Autostart
+- Yakuake
+
+Desktop Session
+- Start with an empty session
