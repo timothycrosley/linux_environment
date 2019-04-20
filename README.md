@@ -74,3 +74,14 @@ Autostart
 
 Desktop Session
 - Start with an empty session
+
+Virtual Desktops
+- Add 4 Virtual Desktops
+    - Develop
+    - Research & Communicate
+    - Design
+    - Other
+- Navigation wraps around
+- Show animation when switching: slide
+- Show on screen when switching: 500ms
+- Show desktop layout indicators
