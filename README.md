@@ -85,3 +85,15 @@ Virtual Desktops
 - Show animation when switching: slide
 - Show on screen when switching: 500ms
 - Show desktop layout indicators
+
+Standard Shortcuts
+- Backward Word: Alt+Left
+- Forward Word: Alt+Right
+- Delete Forward Word: Alt+Del
+- Delete Backward Word: Alt+Backspace
+
+Global Shortcuts / KWin
+- Switch to Next Desktop: Ctrl+Right
+- Switch to Previous Desktop: Ctrl+Left
+- Window to Next Desktop: Shift+Ctrl+Right
+- Window to Previous Desktop: Shift+Ctrl+Left
