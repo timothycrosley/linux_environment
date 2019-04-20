@@ -105,3 +105,6 @@ Desktop Effects / Desktop Grid
 Desktop Effects / Present Windows
 - Toggle Present Windows Current Desktop (Ctrl+Up)
 - Toggle Present Windows All Desktops (Shift+Ctrl+Up)
+
+Desktop Effects / Desktop Cube
+- Toggle Desktop Cube: Shift+Ctrl+Down
