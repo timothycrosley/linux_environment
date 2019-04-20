@@ -108,3 +108,8 @@ Desktop Effects / Present Windows
 
 Desktop Effects / Desktop Cube
 - Toggle Desktop Cube: Shift+Ctrl+Down
+
+Desktop Effects/ Zoom
+- In: Meta+Plus
+- Out: Meta+Minus
+
