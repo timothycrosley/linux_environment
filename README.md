@@ -97,3 +97,11 @@ Global Shortcuts / KWin
 - Switch to Previous Desktop: Ctrl+Left
 - Window to Next Desktop: Shift+Ctrl+Right
 - Window to Previous Desktop: Shift+Ctrl+Left
+
+Desktop Effects / Desktop Grid
+- Show Desktop Grid: Ctrl+F8
+- Desktop Name Alignment: Center
+
+Desktop Effects / Present Windows
+- Toggle Present Windows Current Desktop (Ctrl+Up)
+- Toggle Present Windows All Desktops (Shift+Ctrl+Up)
