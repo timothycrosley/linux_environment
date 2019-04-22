@@ -113,3 +113,5 @@ Desktop Effects/ Zoom
 - In: Meta+Plus
 - Out: Meta+Minus
 
+Task Manager Settings
+- Show only tasks from the current desktop
