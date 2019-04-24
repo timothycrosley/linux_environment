@@ -10,6 +10,7 @@ sudo apt install kate
 sudo apt install python3
 sudo apt install python3-dev
 sudo apt install python3-venv
+sudo apt install python3-pip
 sudo apt install silversearcher-ag
 sudo apt install pandoc
 sudo apt install redis
@@ -17,3 +18,5 @@ sudo apt install ubuntu-dev-tools
 
 sudo snap install bitwarden
 sudo snap install bw
+
+sudo pip3 install concentration
