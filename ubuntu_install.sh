@@ -19,4 +19,5 @@ sudo apt install ubuntu-dev-tools
 sudo snap install bitwarden
 sudo snap install bw
 
-sudo pip3 install concentration
+sudo python3 -m pip install -U concentration isort
+
