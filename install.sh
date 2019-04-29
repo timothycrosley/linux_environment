@@ -4,7 +4,7 @@
 git clone https://github.com/timothycrosley/linux_environment.git ~/.environment
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 
-echo "source ~/environment/source.sh" >> ~/.bashrc
+echo "source ~/.environment/source.sh" >> ~/.bashrc
 ~/.fzf/install
 
 git config --global user.email "timothy.crosley@gmail.com"
