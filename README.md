@@ -115,3 +115,16 @@ Desktop Effects/ Zoom
 
 Task Manager Settings
 - Show only tasks from the current desktop
+
+Panel Customizations:
+- Set Application Launcher icon to Linux Penguin
+- Select the Alternative "Application Dashboard" menu
+- Add lock, log-out widget to right side
+- Add color picker to right side
+- Add redshift widget to right side
+- Add icon only task manager to left side
+    - Set middle-click to open a new instance
+
+Kwin Scripts:
+- Sticky Window Snapping
+- Dynamic Virtual Desktops
