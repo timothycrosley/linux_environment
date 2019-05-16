@@ -22,5 +22,4 @@ sudo apt install plasma-applet-redshift-control
 sudo snap install bitwarden
 sudo snap install bw
 
-sudo python3 -m pip install -U concentration isort
-
+sudo python3 -m pip install -U concentration isort hug allow
