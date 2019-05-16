@@ -16,6 +16,9 @@ sudo apt install pandoc
 sudo apt install redis
 sudo apt install ubuntu-dev-tools
 
+sudo apt install redshift
+sudo apt install plasma-applet-redshift-control
+
 sudo snap install bitwarden
 sudo snap install bw
 
