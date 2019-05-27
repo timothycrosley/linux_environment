@@ -118,6 +118,11 @@ Desktop Effects/ Zoom
 Task Manager Settings
 - Show only tasks from the current desktop
 
+Screen Edges:
+- Top Left: Present Windows Current Desktop
+- Top Right: Desktop Grid
+- Bottom Right: Present Windows All Desktops
+
 Panel Customizations:
 - Set Application Launcher icon to Linux Penguin
 - Select the Alternative "Application Dashboard" menu
