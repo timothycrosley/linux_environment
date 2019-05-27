@@ -56,6 +56,9 @@ Spellcheck:
 Open/Save:
 - Remove Trailing Spaces: In Entire Document
 
+Shortcuts:
+- Quick Open: Ctrl+1
+
 # Firefox
 
 Extensions:
@@ -76,11 +79,6 @@ Desktop Session
 - Start with an empty session
 
 Virtual Desktops
-- Add 4 Virtual Desktops
-    - Develop
-    - Research & Communicate
-    - Design
-    - Other
 - Navigation wraps around
 - Show animation when switching: slide
 - Show on screen when switching: 500ms
@@ -98,9 +96,13 @@ Global Shortcuts / KWin
 - Window to Next Desktop: Shift+Ctrl+Right
 - Window to Previous Desktop: Shift+Ctrl+Left
 
+Yakuake Shortcuts
+- Open/Retract Yakuake: Ctrl + `
+
 Desktop Effects / Desktop Grid
-- Show Desktop Grid: Ctrl+F8
+- Show Desktop Grid: Ctrl+Down
 - Desktop Name Alignment: Center
+- Layout Mode: Automatic
 
 Desktop Effects / Present Windows
 - Toggle Present Windows Current Desktop (Ctrl+Up)
@@ -128,3 +130,4 @@ Panel Customizations:
 Kwin Scripts:
 - Sticky Window Snapping
 - Dynamic Virtual Desktops
+- Maximize to New Desktop
