@@ -7,6 +7,7 @@ sudo apt install git
 sudo apt install yakuake
 sudo apt install vim
 sudo apt install kate
+sudo apt install retext
 sudo apt install python3
 sudo apt install python3-dev
 sudo apt install python3-venv
