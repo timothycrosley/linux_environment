@@ -13,8 +13,8 @@ git config --global credential.helper "cache --timeout=31536000"
 git config --global push.default current
 git config --global core.askpass ""
 
-mkdir ~/templates
-git clone https://github.com/timothycrosley/python3-project-template ~/templates/python3
+mkdir ~/Templates
+git clone https://github.com/timothycrosley/python3-project-template ~/Templates/python3
 
 mkdir ~/Projects
 git clone https://github.com/timothycrosley/isort ~/Projects/isort
@@ -34,3 +34,6 @@ git clone https://github.com/licton/lovelicton ~/Projects/licton/lovelicton
 git clone https://github.com/licton/licton_springs ~/Projects/licton/licton_springs
 
 ln -s ~/.environment/isort.cfg ~/.isort.cfg
+
+mkdir ~/.themes
+git clone https://github.com/dracula/kate.git ~/.themes/kate
