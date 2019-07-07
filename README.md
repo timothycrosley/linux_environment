@@ -67,6 +67,9 @@ Extensions:
 Themes:
 - Dark
 
+Network:
+- Enable DNS over HTTPS
+
 # KDE
 
 Theme:
