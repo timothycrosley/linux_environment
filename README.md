@@ -70,6 +70,9 @@ Themes:
 Network:
 - Enable DNS over HTTPS
 
+Logins and Passwords:
+- Disable: Ask to save logins and passwords for websites
+
 # KDE
 
 Theme:
