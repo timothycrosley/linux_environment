@@ -73,6 +73,9 @@ Network:
 Logins and Passwords:
 - Disable: Ask to save logins and passwords for websites
 
+Menu > Settings:
+- Disable: show tabs
+
 # KDE
 
 Theme:
