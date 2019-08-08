@@ -58,6 +58,7 @@ Open/Save:
 
 Shortcuts:
 - Quick Open: Ctrl+1
+- Switch to Next Input Mode: Ctrl+Shift+M
 
 Menu > Settings:
 - Disable: show tabs
