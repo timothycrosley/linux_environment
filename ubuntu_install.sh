@@ -28,3 +28,7 @@ sudo python3 -m pip install -U concentration isort hug allow
 sudo apt install kubuntu-desktop
 sudo apt install -y gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-plugins-good libavcodec-extra gstreamer1.0-libav chromium-codecs-ffmpeg-extra libdvd-pkg vlc
 sudo dpkg-reconfigure libdvd-pkg
+
+sudo add-apt-repository ppa:wereturtle/ppa
+sudo apt-get update
+sudo apt-get install ghostwriter
