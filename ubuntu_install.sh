@@ -16,6 +16,7 @@ sudo apt install silversearcher-ag
 sudo apt install pandoc
 sudo apt install redis
 sudo apt install ubuntu-dev-tools
+sudo apt install libu2f-udev
 
 sudo apt install redshift
 sudo apt install plasma-applet-redshift-control
