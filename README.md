@@ -134,8 +134,8 @@ Screen Edges:
 - Bottom Right: Present Windows All Desktops
 
 Panel Customizations:
-- Set Application Launcher icon to Linux Penguin
 - Select the Alternative "Application Dashboard" menu
+- Set Application Launcher icon to Linux Penguin
 - Add lock, log-out widget to right side
 - Add color picker to right side
 - Add redshift widget to right side
@@ -145,4 +145,3 @@ Panel Customizations:
 Kwin Scripts:
 - Sticky Window Snapping
 - Dynamic Virtual Desktops
-- Maximize to New Desktop
