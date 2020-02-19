@@ -1,6 +1,8 @@
 # Linux Environment
 My common environment across all linux computers
 
+See: https://github.com/timothycrosley/mac_environment/ for MacOS development environment instructions.
+
 To install:
 ```
 source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environment/master/install.sh)
