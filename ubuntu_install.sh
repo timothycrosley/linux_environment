@@ -22,8 +22,9 @@ sudo apt install -y libu2f-udev
 sudo apt install -y redshift
 sudo apt install -y plasma-applet-redshift-control
 
-sudo snap install -y bitwarden
-sudo snap install -y bw
+sudo snap install bitwarden
+sudo snap install bw
+sudo apt install -y xclip
 
 sudo python3 -m pip install -U concentration isort hug allow
 
@@ -36,3 +37,4 @@ sudo apt-get update -y
 sudo apt-get -y install ghostwriter -y
 
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
+echo "source $HOME/.poetry/env" >> ~/.bashrc
