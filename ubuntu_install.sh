@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo apt update
-sudo apt upgrade
+sudo apt update -y
+sudo apt upgrade -y
 sudo apt install -y curl
 sudo apt install -y kwrite
 sudo apt install -y git
@@ -12,6 +12,7 @@ sudo apt install -y python3
 sudo apt install -y python3-dev
 sudo apt install -y python3-venv
 sudo apt install -y python3-pip
+sudo apt install -y python-is-python3
 sudo apt install -y silversearcher-ag
 sudo apt install -y pandoc
 sudo apt install -y redis
@@ -30,6 +31,8 @@ sudo apt install -y kubuntu-desktop
 sudo apt install -y gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-plugins-good libavcodec-extra gstreamer1.0-libav chromium-codecs-ffmpeg-extra libdvd-pkg vlc
 sudo dpkg-reconfigure libdvd-pkg
 
-sudo add-apt-repository ppa:wereturtle/ppa
-sudo apt-get update
-sudo apt-get -y install ghostwriter
+sudo add-apt-repository ppa:wereturtle/ppa -y
+sudo apt-get update -y
+sudo apt-get -y install ghostwriter -y
+
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
