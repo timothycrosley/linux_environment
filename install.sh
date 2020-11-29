@@ -12,6 +12,7 @@ git config --global user.name "Timothy Crosley"
 git config --global credential.helper "cache --timeout=31536000"
 git config --global push.default current
 git config --global core.askpass ""
+git config pull.rebase false
 
 mkdir ~/Templates
 git clone https://github.com/timothycrosley/python3-project-template ~/Templates/python3
