@@ -3,7 +3,15 @@ My common environment across all linux computers
 
 See: https://github.com/timothycrosley/mac_environment/ for MacOS development environment instructions.
 
-To install:
+## To install
+If Ubuntu:
+
+```
+source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environment/master/ubuntu_install.sh)
+```
+
+Then:
+
 ```
 source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environment/master/install.sh)
 ```
