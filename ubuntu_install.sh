@@ -18,6 +18,7 @@ sudo apt install -y pandoc
 sudo apt install -y redis
 sudo apt install -y ubuntu-dev-tools
 sudo apt install -y libu2f-udev
+sudo apt install -y ripgrep
 
 sudo apt install -y redshift
 sudo apt install -y plasma-applet-redshift-control
