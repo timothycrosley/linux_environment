@@ -39,4 +39,4 @@ sudo apt-get update -y
 sudo apt-get -y install ghostwriter -y
 
 curl -sSL https://install.python-poetry.org | python3 -
-echo 'export PATH="/home/timothycrosley/.local/bin:$PATH"' >> ~/.bashrc
+echo 'export PATH="~/.local/bin:$PATH"' >> ~/.bashrc
