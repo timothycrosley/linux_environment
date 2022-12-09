@@ -20,6 +20,7 @@ sudo apt install -y ubuntu-dev-tools
 sudo apt install -y libu2f-udev
 sudo apt install -y ripgrep
 sudo apt install -y gimp
+sudo apt install -y steam
 
 sudo apt install -y redshift
 sudo apt install -y plasma-applet-redshift-control
