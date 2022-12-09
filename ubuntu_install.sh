@@ -38,5 +38,5 @@ sudo add-apt-repository ppa:wereturtle/ppa -y
 sudo apt-get update -y
 sudo apt-get -y install ghostwriter -y
 
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
-echo "source $HOME/.poetry/env" >> ~/.bashrc
+curl -sSL https://install.python-poetry.org | python3 -
+echo 'export PATH="/home/timothycrosley/.local/bin:$PATH"' >> ~/.bashrc
