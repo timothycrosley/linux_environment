@@ -39,6 +39,7 @@ git clone https://github.com/flutter/flutter.git -b stable ~/flutter
 ```bash
 cat <<EOF > ~/.flutterdevrc
 export PATH="\$HOME/flutter/bin:\$PATH"
+export PATH="$PATH":"$HOME/.pub-cache/bin"
 EOF
 echo ". ~/.flutterdevrc" >> ~/.bashrc
 ~/.bashrc
