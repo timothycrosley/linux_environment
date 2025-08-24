@@ -52,3 +52,10 @@ flutter doctor
 ```
 
 Fix any follow up issues that it finds
+
+## firebase
+
+```bash
+curl -sL https://firebase.tools | bash
+firebase login
+```
