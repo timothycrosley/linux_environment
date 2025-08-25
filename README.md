@@ -17,16 +17,12 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environm
 ```
 
 # GitHub
-  
-1. Run 
-```bash
-ssh-keygen -t ecdsa-sk -C timothy.crosley@gmail.com
-cat /home/tim/.ssh/id_ecdsa_sk.pub
-```
-2. Paste the output of the above to `github.com` > `settings` > `SSH and GPG keys` -> `New SSH key`.
 
-[Direct link to SSH key add](https://github.com/settings/keys)
-[instruction video](https://www.youtube.com/watch?v=4lPvjON4-k8)
+Run the following from the command line
+
+`gh auth login`
+
+And then follow instructions provided
 
 # Kate settings:
 
