@@ -22,6 +22,9 @@ sudo apt install -y ripgrep
 sudo apt install -y gimp
 sudo apt install -y steam
 sudo apt install -y gh
+sudo apt install -y npm
+sudo apt install -y cmake
+sudo apt install -y clang
 
 sudo apt install -y redshift
 sudo apt install -y plasma-applet-redshift-control
