@@ -28,6 +28,7 @@ sudo apt install -y clang
 
 sudo apt install -y redshift
 sudo apt install -y plasma-applet-redshift-control
+sudo apt install -y portaudio19-dev
 
 sudo snap install bitwarden
 sudo snap install bw
