@@ -97,6 +97,8 @@ Logins and Passwords:
 
 # KDE
 
+**Note on shortcuts**: There is an attached [shortcuts.kksrc](shortcuts.kksrc) file that can be loaded into KDE and apply them automatically.
+
 Theme:
 - Breeze Dark
 
