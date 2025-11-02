@@ -14,22 +14,10 @@ git config pull.rebase false
 mkdir ~/Templates
 git clone https://github.com/timothycrosley/python3-project-template ~/Templates/python3
 
-mkdir ~/Projects
-git clone https://github.com/timothycrosley/isort ~/Projects/isort
-git clone https://github.com/timothycrosley/jiphy ~/Projects/jiphy
-git clone https://github.com/timothycrosley/concentration ~/Projects/concentration
-
-mkdir ~/Projects/hugapi
-git clone https://github.com/hugapi/hug ~/Projects/hugapi/hug
-git clone https://github.com/hugapi/HOPE ~/Projects/hugapi/HOPE
-git clone https://github.com/hugapi/hug_authentication_ldap ~/Projects/hugapi/hug_authentication_ldap
-git clone https://github.com/hugapi/hug_yaml ~/Projects/hugapi/hug_yaml
-git clone https://github.com/hugapi/hug_explainable ~/Projects/hugapi/hug_explainable
-git clone https://github.com/hugapi/hug_peewee ~/Projects/hugapi/hug_peewee
-
-mkdir ~/Projects/licton
-git clone https://github.com/licton/lovelicton ~/Projects/licton/lovelicton
-git clone https://github.com/licton/licton_springs ~/Projects/licton/licton_springs
+mkdir ~/projects
+git clone https://github.com/timothycrosley/isort ~/projects/isort
+git clone https://github.com/timothycrosley/concentration ~/projects/concentration
+git clone https://github.com/timothycrosley/privatellm ~/projects/privatellm
 
 ln -s ~/.environment/isort.cfg ~/.isort.cfg
 
